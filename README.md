@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![typescript](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=d9e0ee)
+![python](hhttps://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=d9e0ee)
+![lua](https://img.shields.io/badge/lua-blue?style=for-the-badge&logo=lua&logoColor=d9e0ee)
+![ahk](https://img.shields.io/badge/ahk-blue?style=for-the-badge&logo=autohotkey&logoColor=d9e0ee)
+
 <!--
 **AndalYLP/AndalYLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
